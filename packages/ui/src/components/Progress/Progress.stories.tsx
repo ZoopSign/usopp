@@ -74,3 +74,17 @@ WithLabelOutside.args = {
   progressLabelPosition: "inside",
   size: "lg",
 };
+
+export const WithBothOutside = Template.bind({});
+WithBothOutside.storyName = "Label and progress outside";
+WithBothOutside.args = {
+  textLabel: "Loading your document",
+  labelText: true,
+  textLabelPosition: "outside",
+  progress: 30,
+  labelProgress: true,
+  progressLabelPosition: "outside",
+  size: "lg",
+  color: "indigo"
+};
+

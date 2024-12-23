@@ -81,7 +81,7 @@
     "eslint-plugin-vitest": "0.5.4",
     "fast-glob": "3.3.2",
     "jsdom": "24.1.1",
-    "rollup": "4.20.0",
+    "rollup": "4.22.4",
     "rollup-plugin-esbuild": "6.1.1",
     "rollup-plugin-use-client": "1.4.0",
     "typescript": "5.5.4",
